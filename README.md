@@ -366,18 +366,10 @@ Networking and cybersecurity learning.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera&layout=donut-vertical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&border_radius=12" width="40%" />
 </p>
 
-### GitHub Performance
-
+<!-- Summary card: commits, PRs, issues, and stars in one compact card, no extra setup required -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritambera&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&border_radius=12" width="70%" />
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritambera&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pritambera&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pritambera&theme=github_dark&utcOffset=5.5" width="45%" />
 </p>
 
 ---
@@ -400,12 +392,13 @@ Networking and cybersecurity learning.
 
 # Contribution Snake
 
-<!-- NOTE: this image only renders if you've set up the "platane/snk" GitHub Action
-     on a workflow that pushes to an `output` branch in this repo. If you haven't,
-     this will show as a broken image. See: https://github.com/Platane/snk -->
+<!-- This only renders once the "snake.yml" GitHub Action below has run at least
+     once on your pritambera/pritambera repo and created the `output` branch. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/pritambera/pritambera/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
+
+> **Setup (one-time):** add the `snake.yml` workflow file below to `.github/workflows/` in your `pritambera/pritambera` repo, then go to the **Actions** tab and run it once manually. It will regenerate the snake daily and the image above will start working automatically.
 
 ---
 
