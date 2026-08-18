@@ -1,32 +1,32 @@
 # Pritam Bera — Software Engineer | AI/ML | Full-Stack Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=PRITAM%20BERA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=PRITAM%20BERA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Software+Engineering+%7C+AI%2FML+%7C+Full-Stack;Building+Scalable+%26+Intelligent+Products;Data+Structures+%7C+Algorithms+%7C+System+Design;Engineering+with+Curiosity%2C+Precision+%26+Purpose" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full-Stack+Developer+%7C+Problem+Solver;Data+Structures+%26+Algorithms+%7C+System+Design;Building+Scalable+%26+Intelligent+Products;Turning+Complex+Problems+Into+Clean+Software" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-4C1D95?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Software-Engineering-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Engineering-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software-Engineering-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kolkata-India-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
+  <a href="https://github.com/pritambera">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/pritam-bera-07856027a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/pritambera">
-    <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-4338CA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://github.com/pritambera">
+    <img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -38,318 +38,358 @@
 
 ---
 
-## About
+# About Me
 
-I am a **Computer Science Engineering student and aspiring Software Engineer** focused on building reliable, scalable, and intelligent software systems.
+I am a **Computer Science Engineering student and aspiring Software Engineer** focused on building scalable, reliable, and intelligent software systems.
 
-My engineering interests span **software development, artificial intelligence, machine learning, full-stack development, data structures & algorithms, and product engineering**.
+My interests sit at the intersection of **Software Engineering, Artificial Intelligence, Machine Learning, Full-Stack Development, Data Structures & Algorithms, and Product Engineering**.
 
-I enjoy turning complex problems into clean, maintainable implementations while continuously improving my fundamentals through competitive programming and real-world projects.
+I enjoy taking complex problems, breaking them into smaller engineering challenges, and turning them into clean, efficient, and maintainable solutions.
 
-I approach development with a product mindset — understanding the problem first, designing the right architecture, writing maintainable code, and thinking about **performance, security, scalability, and user impact**.
+My engineering mindset is built around:
 
-### Engineering Focus
-
-- Software Engineering & Product Development
-- Data Structures & Algorithms
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Backend Engineering & APIs
-- Database Design
-- Cloud & DevOps Fundamentals
-- Competitive Programming
-- System Design & Scalable Architecture
+- Writing clean and maintainable code
+- Understanding algorithms instead of memorizing them
+- Building practical AI/ML applications
+- Designing scalable backend systems
+- Developing full-stack products
+- Improving performance and reliability
+- Learning system design and architecture
+- Continuously improving through competitive programming
 
 ### Open To
 
-**Software Engineering • AI/ML Engineering • Full-Stack Development • Backend Engineering • Open Source • Technical Collaborations • Research & Product Engineering**
+`Software Engineering` `AI/ML Engineering` `Full-Stack Development` `Backend Engineering` `Open Source` `Research` `Technical Collaboration`
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Languages
+## Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,c,javascript,typescript,sql&theme=dark" />
 </p>
 
-### Frontend
+## Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind&theme=dark" />
 </p>
 
-### Backend & Databases
+## Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgresql,sqlite&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,mysql,postgresql,sqlite&theme=dark" />
 </p>
 
-### Cloud, DevOps & Tooling
+## AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode,postman&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+</p>
+
+## Cloud, DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vercel,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## AI / ML Expertise
+# AI / ML Expertise
 
 | Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Intermediate | Supervised & unsupervised learning, model evaluation and experimentation |
-| Deep Learning | Intermediate | Neural networks, sequence models and practical model development |
-| NLP | Intermediate | Text preprocessing, feature engineering and NLP-based applications |
+|---|:---:|---|
+| Machine Learning | Intermediate | Supervised learning, unsupervised learning, preprocessing and model evaluation |
+| Deep Learning | Intermediate | Neural networks, sequence models and practical deep learning |
+| NLP | Intermediate | Text preprocessing, feature extraction and NLP applications |
+| BiLSTM | Intermediate | Sequence modelling and text classification |
 | Computer Vision | Developing | Image processing and computer vision fundamentals |
-| Data Science | Intermediate | Data preprocessing, exploratory analysis and visualization |
-| AI Engineering | Intermediate | Integrating intelligent models into practical software products |
-| Model Deployment | Developing | Application-level ML deployment and inference workflows |
-| Generative AI | Developing | Exploring LLM-powered applications and AI-assisted workflows |
+| Data Science | Intermediate | Data cleaning, analysis and visualization |
+| AI Engineering | Intermediate | Integrating ML models into practical applications |
+| Model Deployment | Developing | Application-level model deployment and inference |
+| Generative AI | Developing | LLM applications and AI-assisted development |
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <details>
-<summary><strong>AI-Based Mental Health Detection System</strong></summary>
+<summary><strong>01 — AI-Based Mental Health Detection System</strong></summary>
 
-### AI-Based Mental Health Detection System
+<br>
 
-An AI-powered application designed to analyze textual inputs using NLP and deep learning techniques. The project combines natural language processing with sequence-based neural networks and provides an application-oriented interface for model interaction.
+An AI-powered NLP application designed to analyze textual inputs using machine learning and deep learning techniques.
+
+The project explores **NLP preprocessing, BiLSTM-based sequence modelling, classification and Streamlit-based deployment**.
 
 | Metric | Details |
 |---|---|
-| **Stack** | Python • NLP • BiLSTM • Machine Learning • Streamlit |
-| **Scale** | Modular ML application architecture |
-| **Performance** | Sequence-based deep learning inference |
-| **Security** | Privacy-aware application design |
-| **Impact** | Applies AI/NLP techniques to a real-world problem domain |
-| **Repository** | [GitHub](https://github.com/pritambera) |
+| **Stack** | Python • NLP • BiLSTM • TensorFlow • Streamlit |
+| **Scale** | Modular AI/ML application |
+| **Performance** | Deep-learning based text inference |
+| **Security** | Privacy-aware application architecture |
+| **Impact** | Practical application of NLP and AI |
+| **Repository** | [View Repository](https://github.com/pritambera) |
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- Designed an NLP preprocessing pipeline.
-- Applied deep learning for text classification.
-- Experimented with BiLSTM-based sequence modelling.
-- Built an interactive Streamlit application.
-- Structured the project for reproducible experimentation and deployment.
+- Built an NLP preprocessing workflow
+- Applied sequence-based deep learning
+- Experimented with BiLSTM architecture
+- Designed text classification workflow
+- Created an interactive Streamlit interface
+- Focused on reproducible ML experimentation
+- Explored real-world AI application architecture
 
 </details>
 
 <details>
-<summary><strong>Movie Recommendation System</strong></summary>
+<summary><strong>02 — Movie Recommendation System</strong></summary>
 
-### Movie Recommendation System
+<br>
 
-A recommendation platform designed to provide personalized movie discovery using machine learning and web technologies.
+A machine-learning powered recommendation platform designed to provide personalized movie discovery.
+
+The project explores **content-based filtering, similarity calculation, feature processing and web application development**.
 
 | Metric | Details |
 |---|---|
 | **Stack** | HTML • CSS • JavaScript • Python • Machine Learning |
-| **Scale** | Recommendation-oriented web application |
-| **Performance** | Content and similarity-based recommendation workflows |
-| **Security** | Client/server separation and validation-oriented design |
-| **Impact** | Personalized discovery experience |
-| **Repository** | [GitHub](https://github.com/pritambera) |
+| **Scale** | Recommendation web application |
+| **Performance** | Similarity-based recommendation |
+| **Security** | Input validation and structured application design |
+| **Impact** | Personalized content discovery |
+| **Repository** | [View Repository](https://github.com/pritambera) |
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- Explored content-based recommendation techniques.
-- Worked with feature similarity and recommendation logic.
-- Designed a responsive web interface.
-- Connected recommendation logic with a user-facing application.
-- Focused on practical ML integration rather than isolated experimentation.
+- Implemented recommendation logic
+- Explored content-based filtering
+- Worked with feature similarity
+- Designed a responsive frontend
+- Connected ML logic with a user-facing application
+- Focused on practical ML integration
 
 </details>
 
 <details>
-<summary><strong>Competitive Programming & DSA Repository</strong></summary>
+<summary><strong>03 — Competitive Programming & DSA</strong></summary>
 
-### Competitive Programming & DSA
+<br>
 
-A continuously evolving collection of solutions covering fundamental and advanced algorithmic problem-solving patterns.
+A continuously growing collection of algorithmic solutions covering fundamental and advanced problem-solving patterns.
 
 | Metric | Details |
 |---|---|
 | **Stack** | C++ • Python • Java |
-| **Scale** | Competitive programming and interview preparation |
-| **Performance** | Complexity-driven algorithm selection |
-| **Security** | Input validation and robust implementation practices |
-| **Impact** | Strengthens algorithmic thinking and problem-solving ability |
-| **Repository** | [GitHub](https://github.com/pritambera) |
+| **Scale** | Competitive programming repository |
+| **Performance** | Complexity-focused implementations |
+| **Security** | Robust input and edge-case handling |
+| **Impact** | Continuous algorithmic improvement |
+| **Repository** | [View Repository](https://github.com/pritambera) |
 
-**Engineering Highlights**
+### Topics
 
-- Arrays and strings
+- Arrays
+- Strings
 - Hashing
-- Stack and queue patterns
-- Linked lists
-- Binary search
-- Sorting algorithms
-- Prefix sums
-- Sliding window
-- Two pointers
-- Monotonic stacks
-- Greedy algorithms
-- Dynamic programming fundamentals
-- Graph and tree problem solving
+- Prefix Sum
+- Sliding Window
+- Two Pointers
+- Binary Search
+- Sorting
+- Linked Lists
+- Stack
+- Queue
+- Monotonic Stack
+- Greedy
+- Recursion
+- Backtracking
+- Dynamic Programming
+- Trees
+- Graphs
 
 </details>
 
 <details>
-<summary><strong>Arduino & Embedded Systems Projects</strong></summary>
+<summary><strong>04 — Arduino & Embedded Systems</strong></summary>
 
-### Arduino & Embedded Systems
+<br>
 
-A collection of hardware-oriented projects exploring sensors, actuators, microcontrollers and real-time interaction.
+A collection of embedded and IoT-oriented projects involving sensors, actuators and real-time hardware interaction.
 
 | Metric | Details |
 |---|---|
-| **Stack** | Arduino • C/C++ • Sensors • Servo Motors |
+| **Stack** | Arduino • C/C++ • Sensors • Servo |
 | **Scale** | Embedded prototypes |
-| **Performance** | Real-time sensor and actuator interaction |
-| **Security** | Hardware-aware implementation |
-| **Impact** | Practical exposure to IoT and embedded engineering |
-| **Repository** | [GitHub](https://github.com/pritambera) |
+| **Performance** | Real-time sensor interaction |
+| **Security** | Hardware-aware development |
+| **Impact** | Practical IoT and embedded experience |
+| **Repository** | [View Repository](https://github.com/pritambera) |
 
-**Engineering Highlights**
+### Engineering Highlights
 
-- Sensor-based data acquisition.
-- Ultrasonic distance measurement.
-- Servo motor control.
-- Real-time hardware interaction.
-- Embedded programming fundamentals.
+- Ultrasonic sensor integration
+- Distance measurement
+- Servo motor control
+- Real-time hardware interaction
+- Arduino programming
+- Embedded systems experimentation
 
 </details>
 
 ---
 
-## Experience
+# Experience
 
-### Software Engineering & Technical Projects
+## Software Engineering & Technical Projects
 
 **Independent Engineering & Academic Projects**  
-**2022 — Present**
+`2022 — Present`
 
-Focused on developing software projects while strengthening engineering fundamentals through academic work, competitive programming, machine learning experimentation, and full-stack development.
+Developing software projects while strengthening engineering fundamentals through competitive programming, machine learning experimentation, full-stack development and academic engineering work.
 
-**Scope of Work**
+### Scope
 
-- Build software applications using modern programming languages and frameworks.
-- Develop algorithmic solutions for competitive programming problems.
-- Explore machine learning and NLP workflows.
-- Design responsive web applications.
-- Work with databases and backend development concepts.
-- Experiment with AI-powered application development.
-- Debug, optimize and refactor implementations.
-- Apply software engineering principles to academic and personal projects.
+- Develop software using Python, C++, Java and JavaScript
+- Solve algorithmic problems using efficient approaches
+- Build machine learning and NLP applications
+- Develop responsive web applications
+- Work with relational and NoSQL databases
+- Explore backend APIs and application architecture
+- Debug and optimize implementations
+- Practice software engineering principles
+- Explore scalable system design
+- Continuously improve programming fundamentals
 
-**Skills:** `Python` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS` `Machine Learning` `NLP` `Git` `GitHub`
+### Skills
+
+`Python` `C++` `Java` `JavaScript` `SQL` `HTML` `CSS` `Machine Learning` `NLP` `Git` `GitHub`
 
 ---
 
-## Achievements
+# Achievements
 
 <p align="center">
 
 | Recognition | Details |
 |:---:|---|
-| **Competitive Programming** | Consistent practice across LeetCode and Codeforces |
-| **AI / ML Projects** | Developed practical machine learning and NLP applications |
-| **Software Engineering** | Built full-stack and algorithm-focused projects |
-| **Academic Engineering** | Computer Science Engineering background with hands-on technical projects |
-| **Continuous Learning** | Actively expanding knowledge across algorithms, AI, backend and cloud technologies |
+| **Competitive Programming** | Consistent problem solving across LeetCode and Codeforces |
+| **AI / ML Projects** | Built practical machine learning and NLP applications |
+| **Software Engineering** | Developed full-stack and algorithm-focused projects |
+| **Academic Engineering** | Computer Science Engineering background with hands-on development |
+| **Continuous Learning** | Actively developing skills across algorithms, AI, backend and cloud |
 
 </p>
 
 ---
 
-## Certifications
+# Certifications
 
-### AWS
+## AWS
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Engineering-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-Cloud computing, deployment and infrastructure learning track.
+Cloud computing, infrastructure and deployment learning.
 
-### Oracle
+## Oracle
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-Database%20%26%20Cloud-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-Database and enterprise technology learning track.
+Database and enterprise technology learning.
 
-### NPTEL
+## NPTEL
 
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
 </p>
 
-Academic and computer science focused coursework.
+Computer science and engineering coursework.
 
-### Cisco
+## Cisco
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Cisco-Networking%20%26%20Security-4338CA?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-Networking, cybersecurity and infrastructure learning track.
+Networking and cybersecurity learning.
 
 ---
 
-## Coding Profiles
+# Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritambera&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C4B5FD&ring_color=8B5CF6&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritambera&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pritambera&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&border_radius=12" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritambera&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&border_radius=12" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritambera&layout=donut-vertical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=CBD5E1&border_radius=12" width="40%" />
 </p>
 
----
-
-## GitHub Trophies
+### GitHub Performance
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritambera&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="90%"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritambera&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pritambera&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=CBD5E1&border_radius=12" width="70%" />
 </p>
 
 ---
 
-## Contribution Snake
+# GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pritambera&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=6" width="95%" />
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritambera&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=GitHub%20Contribution%20Activity" width="100%" />
+</p>
+
+---
+
+# Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/pritambera" width="100%" alt="GitHub Contribution Calendar"/>
+</p>
+
+---
+
+# Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pritambera/pritambera/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
@@ -357,12 +397,13 @@ Networking, cybersecurity and infrastructure learning track.
 
 ---
 
-## Current Focus
+# Current Focus
 
 ```yaml
 Learning:
   - Advanced Data Structures & Algorithms
-  - Dynamic Programming & Graph Algorithms
+  - Dynamic Programming
+  - Graph Algorithms
   - System Design
   - Machine Learning Engineering
   - Backend Architecture
@@ -373,19 +414,22 @@ Building:
   - Full-stack products
   - Machine Learning projects
   - Algorithmic problem-solving solutions
+  - Developer-focused tools
 
 Exploring:
   - Generative AI
-  - LLM-powered applications
-  - Scalable backend systems
+  - LLM Applications
+  - RAG Systems
   - MLOps
   - Distributed Systems
+  - Scalable Backend Architecture
   - Open Source
 
 Open To:
-  - Software Engineering Opportunities
+  - Software Engineering
   - AI/ML Engineering
   - Full-Stack Development
   - Backend Engineering
   - Open Source Collaboration
-  - Technical Projects
+  - Research Projects
+  - Product Engineering
