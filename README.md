@@ -22,7 +22,8 @@
   <a href="https://www.linkedin.com/in/pritam-bera-07856027a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <!-- TODO: replace with your real email address -->
+  <a href="mailto:TODO_YOUR_REAL_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/pritambera">
@@ -131,7 +132,8 @@ The project explores **NLP preprocessing, BiLSTM-based sequence modelling, class
 | **Performance** | Deep-learning based text inference |
 | **Security** | Privacy-aware application architecture |
 | **Impact** | Practical application of NLP and AI |
-| **Repository** | [View Repository](https://github.com/pritambera) |
+<!-- TODO: replace with the actual repo URL, e.g. https://github.com/pritambera/mental-health-detection -->
+| **Repository** | [View Repository](https://github.com/pritambera/TODO-REPO-NAME) |
 
 ### Engineering Highlights
 
@@ -161,7 +163,8 @@ The project explores **content-based filtering, similarity calculation, feature 
 | **Performance** | Similarity-based recommendation |
 | **Security** | Input validation and structured application design |
 | **Impact** | Personalized content discovery |
-| **Repository** | [View Repository](https://github.com/pritambera) |
+<!-- TODO: replace with the actual repo URL -->
+| **Repository** | [View Repository](https://github.com/pritambera/TODO-REPO-NAME) |
 
 ### Engineering Highlights
 
@@ -188,7 +191,8 @@ A continuously growing collection of algorithmic solutions covering fundamental 
 | **Performance** | Complexity-focused implementations |
 | **Security** | Robust input and edge-case handling |
 | **Impact** | Continuous algorithmic improvement |
-| **Repository** | [View Repository](https://github.com/pritambera) |
+<!-- TODO: replace with the actual repo URL -->
+| **Repository** | [View Repository](https://github.com/pritambera/TODO-REPO-NAME) |
 
 ### Topics
 
@@ -227,7 +231,8 @@ A collection of embedded and IoT-oriented projects involving sensors, actuators 
 | **Performance** | Real-time sensor interaction |
 | **Security** | Hardware-aware development |
 | **Impact** | Practical IoT and embedded experience |
-| **Repository** | [View Repository](https://github.com/pritambera) |
+<!-- TODO: replace with the actual repo URL -->
+| **Repository** | [View Repository](https://github.com/pritambera/TODO-REPO-NAME) |
 
 ### Engineering Highlights
 
@@ -246,7 +251,7 @@ A collection of embedded and IoT-oriented projects involving sensors, actuators 
 
 ## Software Engineering & Technical Projects
 
-**Independent Engineering & Academic Projects**  
+**Independent Engineering & Academic Projects**
 `2022 — Present`
 
 Developing software projects while strengthening engineering fundamentals through competitive programming, machine learning experimentation, full-stack development and academic engineering work.
@@ -326,19 +331,23 @@ Networking and cybersecurity learning.
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<!-- TODO: replace with your real LeetCode profile URL, e.g. https://leetcode.com/u/pritambera -->
+<a href="https://leetcode.com/u/TODO-USERNAME">
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/">
+<!-- TODO: replace with your real GeeksforGeeks profile URL -->
+<a href="https://www.geeksforgeeks.org/user/TODO-USERNAME/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/">
+<!-- TODO: replace with your real HackerRank profile URL -->
+<a href="https://www.hackerrank.com/profile/TODO-USERNAME">
 <img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/">
+<!-- TODO: replace with your real CodeChef profile URL -->
+<a href="https://www.codechef.com/users/TODO-USERNAME">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
@@ -391,6 +400,9 @@ Networking and cybersecurity learning.
 
 # Contribution Snake
 
+<!-- NOTE: this image only renders if you've set up the "platane/snk" GitHub Action
+     on a workflow that pushes to an `output` branch in this repo. If you haven't,
+     this will show as a broken image. See: https://github.com/Platane/snk -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/pritambera/pritambera/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 </p>
@@ -405,7 +417,6 @@ Learning:
   - Dynamic Programming
   - Graph Algorithms
   - System Design
-  - Machine Learning Engineering
   - Backend Architecture
   - Cloud & DevOps
 
@@ -422,8 +433,6 @@ Exploring:
   - RAG Systems
   - MLOps
   - Distributed Systems
-  - Scalable Backend Architecture
-  - Open Source
 
 Open To:
   - Software Engineering
@@ -433,3 +442,4 @@ Open To:
   - Open Source Collaboration
   - Research Projects
   - Product Engineering
+```
